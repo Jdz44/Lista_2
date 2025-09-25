@@ -1,0 +1,14 @@
+C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\lista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\lista2.AssemblyInfoInputs.cache
+C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\lista2.AssemblyInfo.cs
+C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\lista2.csproj.CoreCompileInputs.cache
+C:\Users\10617296642\OneDrive\lista2\bin\Debug\net9.0\lista2.exe
+C:\Users\10617296642\OneDrive\lista2\bin\Debug\net9.0\lista2.deps.json
+C:\Users\10617296642\OneDrive\lista2\bin\Debug\net9.0\lista2.runtimeconfig.json
+C:\Users\10617296642\OneDrive\lista2\bin\Debug\net9.0\lista2.dll
+C:\Users\10617296642\OneDrive\lista2\bin\Debug\net9.0\lista2.pdb
+C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\lista2.dll
+C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\refint\lista2.dll
+C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\lista2.pdb
+C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\lista2.genruntimeconfig.cache
+C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\ref\lista2.dll
