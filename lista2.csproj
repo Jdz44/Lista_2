@@ -4,8 +4,8 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-    <StartupObject>Exercicio2</StartupObject>
+    <Nullable>disable</Nullable>
+    <StartupObject>Exercicio3</StartupObject>
   </PropertyGroup>
 
 </Project>

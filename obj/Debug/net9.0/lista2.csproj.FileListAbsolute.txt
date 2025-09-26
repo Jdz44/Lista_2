@@ -12,3 +12,4 @@ C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\refint\lista2.dll
 C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\lista2.pdb
 C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\lista2.genruntimeconfig.cache
 C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\ref\lista2.dll
+C:\Users\10617296642\OneDrive\lista2\obj\Debug\net9.0\lista2.sourcelink.json
